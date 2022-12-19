@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://us-cert.cisa.gov/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<channel>
+<title>CISA Current Activity</title>
+<link>https://us-cert.cisa.gov/</link>
+<description>A regularly updated summary of the most frequent, high-impact security incidents currently being reported to the US-CERT.</description>
+<language>en</language>
+<item>
+<title>Samba Releases Security Updates</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/16/samba-releases-security-updates</link>
+<description>Original release date: December 16, 2022&lt;br/&gt;&lt;p&gt;The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;CISA encourages users and administrators to review the following Samba security announcements and apply the necessary updates.&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://www.samba.org/samba/security/CVE-2022-38023.html"&gt;CVE-2022-38023&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.samba.org/samba/security/CVE-2022-37966.html"&gt;CVE-2022-37966&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.samba.org/samba/security/CVE-2022-37967.html"&gt;CVE-2022-37967&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.samba.org/samba/security/CVE-2022-45141.html"&gt;CVE-2022-45141&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Fri, 16 Dec 2022 15:35:26 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18240 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>FBI, FDA OCI, and USDA Release Joint Cybersecurity Advisory Regarding Business Email Compromise Schemes Used to Steal Food</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/16/fbi-fda-oci-and-usda-release-joint-cybersecurity-advisory</link>
+<description>Original release date: December 16, 2022&lt;br/&gt;&lt;p&gt;The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the U.S. Department of Agriculture (USDA) have released a joint Cybersecurity Advisory (CSA) detailing recently observed incidents of criminal actors using business email compromise (BEC) to steal shipments of food products and ingredients valued at hundreds of thousands of dollars. The joint CSA analyzes the common tactics, techniques, and procedures (TTPs) utilized by criminal actors to spoof emails and domains to impersonate legitimate employees and order goods that went unpaid and were possibly resold at devalued prices with labeling that lacked industry standard “need-to-knows” (i.e., necessary information about ingredients, allergens, or expiration dates).&lt;/p&gt;
+
+&lt;p&gt;For more information, CISA encourages organizations to review the guidance provided by the FBI, FDA OCI, and USDA in joint CSA &lt;a href="https://www.ic3.gov/Media/News/2022/221216.pdf"&gt;Criminal Actors Use Business Email Compromise to Steal Large Shipments of Food Products and Ingredients&lt;/a&gt;—whereby businesses are urged “to use a risk-informed analysis to prepare for, mitigate, and respond to cyber incidents and cyber-enabled crime.”&lt;/p&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Fri, 16 Dec 2022 15:33:50 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18237 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>CISA Releases Forty-One Industrial Control Systems Advisories</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-releases-forty-one-industrial-control-systems-advisories</link>
+<description>Original release date: December 15, 2022&lt;br/&gt;&lt;p&gt;CISA has released forty-one (41) Industrial Control Systems (ICS) advisories on 15 December 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.&lt;/p&gt;
+
+&lt;p&gt;CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-01"&gt;ICSA-22-349-01 Prosys OPC UA Simulation&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-02"&gt;ICSA-22-349-02 Siemens SCALANCE X-200RNA Switch Devices&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-03"&gt;ICSA-22-349-03 Siemens Multiple Denial of Service Vulnerabilities in Industrial Products&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-04"&gt;ICSA-22-349-04 Siemens Multiple Vulnerabilities in SCALANCE Products&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-05"&gt;ICSA-22-349-05 Siemens PLM Help Server&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-06"&gt;ICSA-22-349-06 Siemens SIMATIC WinCC OA Ultralight Client&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-07"&gt;ICSA-22-349-07 Siemens Simcenter STAR-CCM+&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-08"&gt;ICSA-22-349-08 Siemens Polarion ALM&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-09"&gt;ICSA-22-349-09 Siemens Products affected by OpenSSL 3.0&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-10"&gt;ICSA-22-349-10 Siemens APOGEE_TALON Field Panels&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-11"&gt;ICSA-22-349-11 Siemens SIPROTEC 5 Devices&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-12"&gt;ICSA-22-349-12 Siemens Parasolid&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-13"&gt;ICSA-22-349-13 Siemens Mendix Workflow Commons&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-14"&gt;ICSA-22-349-14 Siemens SISCO MMS-EASE Third Party Component&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-15"&gt;ICSA-22-349-15 Siemens Teamcenter Visualization and JT2Go&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-16"&gt;ICSA-22-349-16 Siemens APOGEE and TALON&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-17"&gt;ICSA-22-349-17 Siemens Mendix Email Connector&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-18"&gt;ICSA-22-349-18 Siemens SCALANCE SC-600 Family&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-19"&gt;ICSA-22-349-19 Siemens SICAM PAS&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-20"&gt;ICSA-22-349-20 Siemens Teamcenter Visualization and JT2Go&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-349-21"&gt;ICSA-22-349-21 Siemens SCALANCE X-200RNA Switch Devices&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-21-012-02"&gt;ICSA-21-012-02 Siemens SCALANCE X Switches (Update C)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-20-014-03"&gt;ICSA-20-014-03 Siemens SCALANCE X Switches (Update B)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-20-042-07"&gt;ICSA-20-042-07 Siemens SCALANCE X Switches (Update C)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-069-01"&gt;ICSA-22-069-01 Siemens RUGGEDCOM Devices (Update D)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-21-222-05"&gt;ICSA-21-222-05 Siemens Industrial Products Intel CPUs (Update G)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-20-161-04"&gt;ICSA-20-161-04 Siemens SIMATIC, SINAMICS, SINEC, SINEMA, SINUMERIK (Update K)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-286-09"&gt;ICSA-22-286-09 Siemens SICAM P850 and P855 Devices (Update A)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-286-11"&gt;ICSA-22-286-11 Siemens SCALANCE and RUGGEDCOM Products (Update B)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-258-04"&gt;ICSA-22-258-04 Siemens Mendix SAML Module (Update B)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-104-06"&gt;ICSA-22-104-06 Siemens PROFINET Stack Integrated on Interniche Stack (Update E)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-286-07"&gt;ICSA-22-286-07 Siemens Nucleus RTOS FTP Server (Update A)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-314-09"&gt;ICSA-22-314-09 Siemens Teamcenter Visualization and JT2Go (Update A)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-314-02"&gt;ICSA-22-314-02 Siemens Missing Web Server Login Page of Industrial Controllers (Update A)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-167-14"&gt;ICSA-22-167-14 Siemens OpenSSL Affected Industrial Products (Update E)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-132-05"&gt;ICSA-22-132-05 Siemens Industrial PCs and CNC devices (Update A)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-104-13"&gt;ICSA-22-104-13 Siemens SIMATIC S7-1500 CPU GNU Linux subsystem (Update A)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-18-163-02"&gt;ICSA-18-163-02 Siemens SCALANCE X Switches (Update B)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-132-12"&gt;ICSA-22-132-12 Siemens Industrial Products (Update C)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-20-105-08"&gt;ICSA-20-105-08 Siemens KTK, SIDOOR, SIMATIC, and SINAMICS (Update D)&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.cisa.gov/uscert/ics/advisories/icsa-19-283-02"&gt;ICSA-19-283-02 Siemens Profinet Devices (Update L)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Thu, 15 Dec 2022 18:44:51 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18239 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and</link>
+<description>Original release date: December 15, 2022&lt;br/&gt;&lt;p&gt;Drupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.&lt;/p&gt;
+
+&lt;p&gt;CISA encourages users and administrators to review Drupal’s security advisories &lt;a href="https://www.drupal.org/sa-contrib-2022-064"&gt;SA-CONTRIB-2022-064&lt;/a&gt;&amp;nbsp;and &lt;a href="https://www.drupal.org/sa-contrib-2022-065"&gt;SA-CONTRIB-2022-065&lt;/a&gt;&amp;nbsp;and apply the necessary update.&lt;/p&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Thu, 15 Dec 2022 15:02:13 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18236 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>CISA Consolidates Twitter Accounts</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-consolidates-twitter-accounts</link>
+<description>Original release date: December 15, 2022&lt;br/&gt;&lt;p&gt;CISA has consolidated its social media presence on Twitter. Three accounts — @ICSCERT, @Cyber, and @CISAInfraSec — are no longer active. Additionally, the @USCERT_gov Twitter account is now renamed @CISACyber. The following current active Twitter accounts will include posts on content previously covered on the now-inactive accounts.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/CISACyber"&gt;@CISACyber&lt;/a&gt; will cover updates relevant to the industrial control systems community along with the latest vulnerability management info, threat analysis, and other info relevant to the cybersecurity community.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/CISAgov"&gt;@CISAgov&lt;/a&gt; will continue to provide agencywide content or non-urgent ICS updates.&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/CISAJen"&gt;@CISAJen&lt;/a&gt; will continue to include posts across a variety of topics coming straight from the CISA director.&lt;br /&gt;
+	CISA encourages followers of the @ICSCERT, @Cyber, and @CISAInfraSec Twitter accounts to follow &lt;a href="https://twitter.com/CISACyber"&gt;@CISACyber&lt;/a&gt; and &lt;a href="https://twitter.com/CISAgov"&gt;@CISAgov&lt;/a&gt;Twitter accounts to keep receiving important CISA messages and information.&lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Thu, 15 Dec 2022 14:34:00 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18215 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/14/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+<description>Original release date: December 14, 2022&lt;br/&gt;&lt;p&gt;CISA has added one new vulnerability to its &lt;a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"&gt;Known Exploited Vulnerabilities Catalog&lt;/a&gt;, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.cisa.gov/binding-operational-directive-22-01"&gt;Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities&lt;/a&gt; established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the &lt;a href="https://cisa.gov/sites/default/files/publications/Reducing_the_Significant_Risk_of_Known_Exploited_Vulnerabilities_211103.pdf"&gt;BOD 22-01 Fact Sheet&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;p&gt;Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of &lt;a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"&gt;Catalog vulnerabilities&lt;/a&gt; as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the &lt;a href="https://www.cisa.gov/known-exploited-vulnerabilities"&gt;specified criteria&lt;/a&gt;. &lt;/p&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Wed, 14 Dec 2022 20:20:53 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18214 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>Apple Releases Security Updates for Multiple Products</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/apple-releases-security-updates-multiple-products</link>
+<description>Original release date: December 13, 2022&lt;br/&gt;&lt;p&gt;Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.&lt;/p&gt;
+
+&lt;p&gt;CISA encourages users and administrators to review the &lt;a href="https://support.apple.com/en-us/HT201222"&gt;Apple security updates&lt;/a&gt;&amp;nbsp;page for the following products and apply the necessary updates as soon as possible:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213538"&gt;iCloud for Windows 14.1&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213537"&gt;Safari 16.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213533"&gt;macOS Monterey 12.6.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213534"&gt;macOS Big Sur 11.7.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213535"&gt;tvOS 16.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213536"&gt;watchOS 9.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213531"&gt;iOS 15.7.2 and iPadOS 15.7.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213530"&gt;iOS 16.2 and iPadOS 16.2&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://support.apple.com/en-us/HT213532"&gt;macOS Ventura 13.1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Tue, 13 Dec 2022 20:43:17 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18212 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>Microsoft Releases December 2022 Security Updates</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/microsoft-releases-december-2022-security-updates</link>
+<description>Original release date: December 13, 2022&lt;br/&gt;&lt;p&gt;Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.&lt;/p&gt;
+
+&lt;p&gt;CISA encourages users and administrators to review Microsoft’s &lt;a href="https://msrc.microsoft.com/update-guide/releaseNote/2022-Dec"&gt;December 2022 Security Update Guide&lt;/a&gt;&amp;nbsp;and &lt;a href="https://msrc.microsoft.com/update-guide/deployments"&gt;Deployment Information&lt;/a&gt;&amp;nbsp;and apply the necessary updates.&lt;/p&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Tue, 13 Dec 2022 19:43:28 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18211 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>CISA Updates Advisory on #StopRansomware: Cuba Ransomware</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-updates-advisory-stopransomware-cuba-ransomware</link>
+<description>Original release date: December 13, 2022&lt;br/&gt;&lt;p&gt;The Federal Bureau of Investigation (FBI) and CISA have updated joint Cybersecurity Advisory &lt;a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-335a"&gt;AA22-335A: #StopRansomware: Cuba Ransomware&lt;/a&gt;, originally released on December 01, 2022. The advisory has been updated to include additional indicators of compromise (IOCs).&lt;/p&gt;
+
+&lt;p&gt;CISA encourages organizations to review the latest update to &lt;a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-335a"&gt;AA22-335A&lt;/a&gt; and apply the recommended mitigations.&lt;/p&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Tue, 13 Dec 2022 17:59:00 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18199 at https://us-cert.cisa.gov</guid>
+</item>
+<item>
+<title>Citrix Releases Security Updates for Citrix ADC, Citrix Gateway</title>
+<link>https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/citrix-releases-security-updates-citrix-adc-citrix-gateway</link>
+<description>Original release date: December 13, 2022&lt;br/&gt;&lt;p&gt;Citrix has released security updates to address a critical vulnerability (CVE-2022-27518) in Citrix ADC and Citrix Gateway. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild.&lt;/p&gt;
+
+&lt;p&gt;CISA encourages users and administrators to review Citrix security bulletin &lt;a href="https://support.citrix.com/article/CTX474995/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202227518"&gt;CTX457836&lt;/a&gt;&amp;nbsp;and Citrix’s &lt;a href="https://www.citrix.com/blogs/2022/12/13/critical-security-update-now-available-for-citrix-adc-citrix-gateway/amp/"&gt;blog post&lt;/a&gt; for more information and to apply the necessary updates. Additionally, CISA urges organizations to review NSA’s advisory &lt;a href="https://media.defense.gov/2022/Dec/13/2003131586/-1/-1/0/CSA-APT5-CITRIXADC-V1.PDF"&gt;APT5: Citrix ADC Threat Hunting Guidance&lt;/a&gt;&amp;nbsp;for detection and mitigation guidance against tools employed by a malicious actor targeting vulnerable Citrix ADC systems.&lt;/p&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p class="privacy-and-terms"&gt;This product is provided subject to this &lt;a href="https://us-cert.cisa.gov/privacy/notification"&gt;Notification&lt;/a&gt; and this &lt;a href="https://www.dhs.gov/privacy-policy"&gt;Privacy &amp;amp; Use&lt;/a&gt; policy.&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+<pubDate>Tue, 13 Dec 2022 17:02:31 +0000</pubDate>
+<dc:creator>CISA</dc:creator>
+<guid isPermaLink="false">18210 at https://us-cert.cisa.gov</guid>
+</item>
+</channel>
+</rss>
