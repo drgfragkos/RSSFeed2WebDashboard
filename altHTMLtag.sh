@@ -1,0 +1,1 @@
+sed 's/<a\s\+/<a target="_blank" /g' < rssfeed-output-test.html > rssfeed-output-test-o.html
